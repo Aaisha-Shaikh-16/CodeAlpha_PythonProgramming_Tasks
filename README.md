@@ -17,7 +17,7 @@ Key Concepts Used:
     random, while loop, if-else, strings, lists.
 
 
-# tock Portfolio Tracker
+# Stock Portfolio Tracker
 
 Goal: 
 
@@ -50,4 +50,4 @@ Scope:
 
 Key Concepts Used: 
 
-    if-elif, functions, loops, input/output.
+    if-elif, functions, loops, lists, input/output.
