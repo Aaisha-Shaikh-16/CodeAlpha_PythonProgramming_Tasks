@@ -1,8 +1,6 @@
 # CodeAlpha_PythonProgramming_Tasks
 
-# CodeAlpha_HangmanGame
-
-Task: Hangman Game
+# Hangman Game
 
 Goal: 
     
@@ -19,8 +17,7 @@ Key Concepts Used:
     random, while loop, if-else, strings, lists.
 
 
-# CodeAlpha_StockPortfolioTracker
-Task: Stock Portfolio Tracker
+# tock Portfolio Tracker
 
 Goal: 
 
@@ -38,10 +35,7 @@ Key Concepts Used:
 
     dictionary, input/output, basic arithmetic, file handling (optional).
 
-# CodeAlpha_BasicChatbot
-
-Task: Basic Chatbot
-
+# Basic Chatbot
 
 Goal: 
 
